@@ -1,0 +1,1 @@
+gcc ./src/heap.c ./src/arq.c performance.c -o a && mv a ./out && ./out/a
